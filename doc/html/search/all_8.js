@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['temperature_5fmax_220',['temperature_max',['../structopt300x__info__s.html#a3366a5dce9b829e03c3d321c2b4df3f6',1,'opt300x_info_s']]],
+  ['temperature_5fmax_221',['TEMPERATURE_MAX',['../driver__opt300x_8c.html#a90c0b20d54005712fcc8cb01281360e9',1,'driver_opt300x.c']]],
+  ['temperature_5fmin_222',['temperature_min',['../structopt300x__info__s.html#a8f9dbe66ac0b66ebae0a36fcb4ba368e',1,'opt300x_info_s']]],
+  ['temperature_5fmin_223',['TEMPERATURE_MIN',['../driver__opt300x_8c.html#aab353db5bf4eb787f86a2080f609a551',1,'driver_opt300x.c']]],
+  ['type_224',['type',['../structopt300x__handle__s.html#a1d127017fb298b889f4ba24752d08b8e',1,'opt300x_handle_s']]]
+];
