@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "LibDriver OPT300X", "index.html", [
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],
@@ -51,8 +51,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"group__opt300x__base__driver.html#gga50b2852c0d63167e9cd6bc7f7c8b9084a614b5aa896e5bf57b6a8b4b6c5d51921"
+"structopt300x__handle__s.html#a769d5b3a6c14790a0e126e8fe70b384b"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

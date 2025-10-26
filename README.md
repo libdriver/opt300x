@@ -10,7 +10,7 @@
 
 The OPT300X is a sensor that measures the intensity of visible light. The spectral response of the sensor tightly matches the photopic response of the human eye and includes significant infrared rejection. The OPT300X is a single-chip lux meter, measuring the intensity of light as visible by the human eye. The precision spectral response and strong IR rejection of the device enables the OPT300X to accurately meter the intensity of light as seen by the human eye regardless of light source. The strong IR rejection also aids in maintaining high accuracy when industrial design calls for mounting the sensor under dark glass for aesthetics. The OPT300X is designed for systems that create light-based experiences for humans, and an ideal preferred replacement for photodiodes, photoresistors, or other ambient light sensors with less human eye matching and IR rejection.
 
-LibDriver OPT300X is a full-featured driver of OPT300X launched by LibDriver.It provides brightness reading, brightness interrupt detection and other functions. LibDriver is MISRA compliant.
+LibDriver OPT300X is a full-featured driver for OPT300X, launched by LibDriver.It provides brightness reading, brightness interrupt detection and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 

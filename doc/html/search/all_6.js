@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['receive_5fcallback_215',['receive_callback',['../structopt300x__handle__s.html#a4a9a1af4e28aea769f6d9f02a02e07c3',1,'opt300x_handle_s']]]
+  ['libdriver_20opt300x_0',['LibDriver OPT300X',['../index.html',1,'']]],
+  ['link_20driver_20function_1',['opt300x link driver function',['../group__opt300x__link__driver.html',1,'']]]
 ];
