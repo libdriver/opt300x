@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['chip_5fname_0',['chip_name',['../structopt300x__info__s.html#af890958c72bd715cc6454a10dc846ae6',1,'opt300x_info_s']]],
-  ['chip_5fname_1',['CHIP_NAME',['../driver__opt300x_8c.html#adc9da0a24824ca1239b593f6459b3954',1,'driver_opt300x.c']]]
+  ['base_20driver_20function_0',['opt300x base driver function',['../group__opt300x__base__driver.html',1,'']]]
 ];

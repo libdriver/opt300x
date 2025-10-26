@@ -1,31 +1,5 @@
 var searchData=
 [
-  ['debug_5fprint_2',['debug_print',['../structopt300x__handle__s.html#a769d5b3a6c14790a0e126e8fe70b384b',1,'opt300x_handle_s']]],
-  ['delay_5fms_3',['delay_ms',['../structopt300x__handle__s.html#a406c9433252b7366de417b7a60915c81',1,'opt300x_handle_s']]],
-  ['driver_5fopt300x_2ec_4',['driver_opt300x.c',['../driver__opt300x_8c.html',1,'']]],
-  ['driver_5fopt300x_2eh_5',['driver_opt300x.h',['../driver__opt300x_8h.html',1,'']]],
-  ['driver_5fopt300x_5fbasic_2ec_6',['driver_opt300x_basic.c',['../driver__opt300x__basic_8c.html',1,'']]],
-  ['driver_5fopt300x_5fbasic_2eh_7',['driver_opt300x_basic.h',['../driver__opt300x__basic_8h.html',1,'']]],
-  ['driver_5fopt300x_5finterface_2eh_8',['driver_opt300x_interface.h',['../driver__opt300x__interface_8h.html',1,'']]],
-  ['driver_5fopt300x_5finterface_5ftemplate_2ec_9',['driver_opt300x_interface_template.c',['../driver__opt300x__interface__template_8c.html',1,'']]],
-  ['driver_5fopt300x_5finterrupt_2ec_10',['driver_opt300x_interrupt.c',['../driver__opt300x__interrupt_8c.html',1,'']]],
-  ['driver_5fopt300x_5finterrupt_2eh_11',['driver_opt300x_interrupt.h',['../driver__opt300x__interrupt_8h.html',1,'']]],
-  ['driver_5fopt300x_5finterrupt_5ftest_2ec_12',['driver_opt300x_interrupt_test.c',['../driver__opt300x__interrupt__test_8c.html',1,'']]],
-  ['driver_5fopt300x_5finterrupt_5ftest_2eh_13',['driver_opt300x_interrupt_test.h',['../driver__opt300x__interrupt__test_8h.html',1,'']]],
-  ['driver_5fopt300x_5flink_5fdebug_5fprint_14',['DRIVER_OPT300X_LINK_DEBUG_PRINT',['../group__opt300x__link__driver.html#gac61e3007e10a3da38d796ea3ad26d7bd',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5fdelay_5fms_15',['DRIVER_OPT300X_LINK_DELAY_MS',['../group__opt300x__link__driver.html#ga821c14e9ba6d39c123cff9caba91e116',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5fiic_5fdeinit_16',['DRIVER_OPT300X_LINK_IIC_DEINIT',['../group__opt300x__link__driver.html#gafe6de415c14ec214530447b6157f8474',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5fiic_5finit_17',['DRIVER_OPT300X_LINK_IIC_INIT',['../group__opt300x__link__driver.html#gad7af16f280f0c7ab55fc7e33f061823e',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5fiic_5fread_18',['DRIVER_OPT300X_LINK_IIC_READ',['../group__opt300x__link__driver.html#ga0cf52990f44809f00b52fcbcd7c3d4d0',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5fiic_5fwrite_19',['DRIVER_OPT300X_LINK_IIC_WRITE',['../group__opt300x__link__driver.html#ga3b8c2295cb33f2b7c07dec60c0beb18c',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5finit_20',['DRIVER_OPT300X_LINK_INIT',['../group__opt300x__link__driver.html#ga0fae52445d69692a73e7848f6add921b',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5flink_5freceive_5fcallback_21',['DRIVER_OPT300X_LINK_RECEIVE_CALLBACK',['../group__opt300x__link__driver.html#ga42054e4fc8f3f69c124b9e2c9bc01832',1,'driver_opt300x.h']]],
-  ['driver_5fopt300x_5fread_5ftest_2ec_22',['driver_opt300x_read_test.c',['../driver__opt300x__read__test_8c.html',1,'']]],
-  ['driver_5fopt300x_5fread_5ftest_2eh_23',['driver_opt300x_read_test.h',['../driver__opt300x__read__test_8h.html',1,'']]],
-  ['driver_5fopt300x_5fregister_5ftest_2ec_24',['driver_opt300x_register_test.c',['../driver__opt300x__register__test_8c.html',1,'']]],
-  ['driver_5fopt300x_5fregister_5ftest_2eh_25',['driver_opt300x_register_test.h',['../driver__opt300x__register__test_8h.html',1,'']]],
-  ['driver_5fopt300x_5fshot_2ec_26',['driver_opt300x_shot.c',['../driver__opt300x__shot_8c.html',1,'']]],
-  ['driver_5fopt300x_5fshot_2eh_27',['driver_opt300x_shot.h',['../driver__opt300x__shot_8h.html',1,'']]],
-  ['driver_5fversion_28',['driver_version',['../structopt300x__info__s.html#a41b0bd442708b70d252c50b92c75265a',1,'opt300x_info_s']]],
-  ['driver_5fversion_29',['DRIVER_VERSION',['../driver__opt300x_8c.html#ae578001fe043b4cca7a0edd801cfe9c4',1,'driver_opt300x.c']]]
+  ['chip_5fname_0',['CHIP_NAME',['../driver__opt300x_8c.html#adc9da0a24824ca1239b593f6459b3954',1,'driver_opt300x.c']]],
+  ['chip_5fname_1',['chip_name',['../structopt300x__info__s.html#af890958c72bd715cc6454a10dc846ae6',1,'opt300x_info_s']]]
 ];
