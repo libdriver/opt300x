@@ -144,17 +144,17 @@ typedef enum
 typedef enum
 {
     OPT3002_RANGE_4914_NW_CM2     = 0x00,        /**< 4914 nW/cm2 */
-    OPT3002_RANGE_9828_NW_CM2     = 0x00,        /**< 9828 nW/cm2 */
-    OPT3002_RANGE_19656_NW_CM2    = 0x00,        /**< 19656 nW/cm2 */
-    OPT3002_RANGE_39312_NW_CM2    = 0x00,        /**< 39312 nW/cm2 */
-    OPT3002_RANGE_78624_NW_CM2    = 0x00,        /**< 78624 nW/cm2 */
-    OPT3002_RANGE_157248_NW_CM2   = 0x00,        /**< 157248 nW/cm2 */
-    OPT3002_RANGE_314496_NW_CM2   = 0x00,        /**< 314496 nW/cm2 */
-    OPT3002_RANGE_628992_NW_CM2   = 0x00,        /**< 628992 nW/cm2 */
-    OPT3002_RANGE_1257984_NW_CM2  = 0x00,        /**< 1257984 nW/cm2 */
-    OPT3002_RANGE_2515968_NW_CM2  = 0x00,        /**< 2515968 nW/cm2 */
-    OPT3002_RANGE_5031936_NW_CM2  = 0x00,        /**< 5031936 nW/cm2 */
-    OPT3002_RANGE_10063872_NW_CM2 = 0x00,        /**< 10063872 nW/cm2 */
+    OPT3002_RANGE_9828_NW_CM2     = 0x01,        /**< 9828 nW/cm2 */
+    OPT3002_RANGE_19656_NW_CM2    = 0x02,        /**< 19656 nW/cm2 */
+    OPT3002_RANGE_39312_NW_CM2    = 0x03,        /**< 39312 nW/cm2 */
+    OPT3002_RANGE_78624_NW_CM2    = 0x04,        /**< 78624 nW/cm2 */
+    OPT3002_RANGE_157248_NW_CM2   = 0x05,        /**< 157248 nW/cm2 */
+    OPT3002_RANGE_314496_NW_CM2   = 0x06,        /**< 314496 nW/cm2 */
+    OPT3002_RANGE_628992_NW_CM2   = 0x07,        /**< 628992 nW/cm2 */
+    OPT3002_RANGE_1257984_NW_CM2  = 0x08,        /**< 1257984 nW/cm2 */
+    OPT3002_RANGE_2515968_NW_CM2  = 0x09,        /**< 2515968 nW/cm2 */
+    OPT3002_RANGE_5031936_NW_CM2  = 0x0A,        /**< 5031936 nW/cm2 */
+    OPT3002_RANGE_10063872_NW_CM2 = 0x0B,        /**< 10063872 nW/cm2 */
     OPT3002_RANGE_AUTO            = 0x0C,        /**< auto range nW/cm2 */
 } opt3002_range_t;
 
