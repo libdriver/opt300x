@@ -273,20 +273,23 @@ uint8_t opt300x_init(opt300x_handle_t *handle)
         
         return 4;                                                              /* return error */
     }
-    res = a_opt300x_iic_read(handle, OPT300X_REG_DEVICE_ID, &id);              /* read id */
-    if (res != 0)                                                              /* check the result */
+    if (handle->type != OPT3002)                                               /* check type */
     {
-        handle->debug_print("opt300x: read id failed.\n");                     /* read id failed */
-        (void)handle->iic_deinit();                                            /* iic deinit */
-        
-        return 4;                                                              /* return error */
-    }
-    if (id != 0x3001)                                                          /* check id */
-    {
-        handle->debug_print("opt300x: device id is invalid.\n");               /* device id is invalid */
-        (void)handle->iic_deinit();                                            /* iic deinit */
-        
-        return 4;                                                              /* return error */
+        res = a_opt300x_iic_read(handle, OPT300X_REG_DEVICE_ID, &id);          /* read id */
+        if (res != 0)                                                          /* check the result */
+        {
+            handle->debug_print("opt300x: read id failed.\n");                 /* read id failed */
+            (void)handle->iic_deinit();                                        /* iic deinit */
+            
+            return 4;                                                          /* return error */
+        }
+        if (id != 0x3001)                                                      /* check id */
+        {
+            handle->debug_print("opt300x: device id is invalid.\n");           /* device id is invalid */
+            (void)handle->iic_deinit();                                        /* iic deinit */
+            
+            return 4;                                                          /* return error */
+        }
     }
     handle->inited = 1;                                                        /* flag finish initialization */
 
